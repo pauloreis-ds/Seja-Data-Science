@@ -4,17 +4,17 @@
 
     A Ação é o seu maior poder.
     
-        -> A prática leva à perfeição. Então ponha as mãos nos códigos desde o príncipio. Copie, copie, copie!
-           Depois, tente você mesmo. A teoria se solidifica na prática. Aplique o que aprendeu para saber como 
-           usar e depois busque criar projetos (pequenos e simples).
-        
-        -> Aprenda cíclicamente. Ao invés de estudar todo o assunto A, então todo o conteúdo B e depois ir para C. 
-           Aprenda o suficiente de A para utilizar junto com o aprendizado e prática de B. Aprenda um pouco mais de
-           A e B e já utilize esses conhecimentos ao raciocinar em C.
-           
-           ps: uma forma de avançar/adiantar conteúdos é simplesmente assistindo a vídeos, aulas, palestras sobre
-           os assuntos, não precisa "aprender", decorar, tatuar na mente. Apenas veja para ter ideia do que está 
-           por vir, e quando vir, você conseguirá compreender mais facilmente do que se visse pela primeira vez.
+    -> A prática leva à perfeição. Então ponha as mãos nos códigos desde o príncipio. Copie, copie, copie!
+       Depois, tente você mesmo. A teoria se solidifica na prática. Aplique o que aprendeu para saber como 
+       usar e depois busque criar projetos (pequenos e simples).
+
+    -> Aprenda cíclicamente. Ao invés de estudar todo o assunto A, então todo o conteúdo B e depois ir para C. 
+       Aprenda o suficiente de A para utilizar junto com o aprendizado e prática de B. Aprenda um pouco mais de
+       A e B e já utilize esses conhecimentos ao raciocinar em C.
+
+       ps: uma forma de avançar/adiantar conteúdos é simplesmente assistindo a vídeos, aulas, palestras sobre
+       os assuntos, não precisa "aprender", decorar, tatuar na mente. Apenas veja para ter ideia do que está 
+       por vir, e quando vir, você conseguirá compreender mais facilmente do que se visse pela primeira vez.
 
          
 * Google Colab ou Jupyter Notebook para os códigos 
